@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Brasil: Roteiros, Dicas e Destinos para Viajar | Mundo Viajante</title>
+  
+  <meta name="description" content="Descubra o Brasil com o Mundo Viajante: roteiros completos, dicas de viagem para cidades e estados, e os melhores destinos para sua aventura nacional.">
+  
+  <link rel="canonical" href="https://[tu-usuario-github].github.io/brasil.html">
+  
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage", // Tipo de la página actual en GitHub
+      "name": "Brasil: Roteiros, Dicas e Destinos para Viajar | Mundo Viajante",
+      "description": "Descubra o Brasil com o Mundo Viajante: roteiros completos, dicas de viagem para cidades e estados, e os melhores destinos para sua aventura nacional.",
+      "url": "https://[tu-usuario-github].github.io/brasil.html", // URL canónica de esta página
+      "mainEntityOfPage": { // La entidad principal que esta página refuerza en tu Money Site
+        "@type": "CollectionPage", // Es una página de colección/categoría
+        "@id": "https://www.mundoviajante.com/brasil/#collectionpage" // ID de la página de Brasil en tu Money Site
+      },
+      "about": { // Esta página trata sobre la entidad geográfica "Brasil"
+        "@type": "Country", // Tipo más específico para un país
+        "name": "Brasil",
+        "url": "https://www.mundoviajante.com/brasil/" // URL de la categoría Brasil en tu Money Site
+        // Opcional: Si quieres ser más específico sobre la entidad geográfica, puedes añadir propiedades como:
+        // "sameAs": "https://es.wikipedia.org/wiki/Brasil" 
+      },
+      "publisher": { // Quién publica esta página (tu marca principal)
+        "@type": "Organization",
+        "@id": "https://mundoviajante.s3.eu-north-1.amazonaws.com/index.html#organization", // ID de tu marca en AWS
+        "name": "Blog Mundo Viajante",
+        "url": "https://www.mundoviajante.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png"
+        }
+      },
+      "author": { // El autor principal del contenido de tu marca
+        "@type": "Person",
+        "name": "Izabela Andrade",
+        "sameAs": [
+          "https://www.linkedin.com/in/izabela-andrade-17227a2a4/",
+          "https://www.instagram.com/blogmundoviajante/",
+          "https://www.facebook.com/mundoviajantee"
+        ]
+      },
+      "sameAs": [ // Enlaces a otras representaciones de esta categoría/tema "Brasil"
+        "https://www.mundoviajante.com/brasil/", // ¡Indispensable enlazar a la URL canónica de tu Money Site!
+        // Opcional: si tienes un perfil social específico para "Brasil" o una página similar en otra plataforma, añádela aquí
+      ]
+    }
+  </script>
+
+  <style>
+    body { 
+      font-family: 'Arial', sans-serif; 
+      line-height: 1.6; 
+      margin: 0; 
+      padding: 0; 
+      background: #f4f7f6; 
+      color: #333; 
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    }
+    h1 {
+      color: #007bff;
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 20px;
+      line-height: 1.8;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #28a745; /* Color verde para el botón */
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 1.2em;
+      transition: background-color 0.3s ease;
+      margin-top: 25px;
+    }
+    .cta-button:hover {
+      background-color: #218838; /* Verde más oscuro al pasar el ratón */
+    }
+    .logo-container {
+      margin-bottom: 30px;
+    }
+    .logo-container img {
+      max-width: 200px;
+      height: auto;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #777;
+    }
+    footer a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo-container">
+      <img src="https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png" alt="Logo Mundo Viajante">
+    </div>
+
+    <h1>Descubra o Melhor do Brasil com o Mundo Viajante</h1>
+    
+    <p>Prepare-se para uma jornada inesquecível pelas maravilhas do Brasil! De praias paradisíacas no Nordeste a metrópoles vibrantes no Sudeste, passando pela exuberante natureza do Norte e a cultura rica do Sul, o Mundo Viajante é seu guia completo para desvendar cada canto deste país fascinante.</p>
+    <p>Nossa equipe de especialistas em viagens selecionou os melhores roteiros, dicas de hospedagem e experiências autênticas para que você planeje sua aventura brasileira com confiança e aproveite ao máximo.</p>
+
+    <div class="cta-section">
+      <p>Explore todos os nossos artigos, roteiros e dicas detalhadas sobre os destinos brasileiros:</p>
+      <a href="https://www.mundoviajante.com/brasil/" class="cta-button" target="_blank" rel="noopener">
+        Visite a Categoria Brasil no Mundo Viajante
+      </a>
+    </div>
+
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Blog Mundo Viajante. Todos os direitos reservados. | <a href="https://www.mundoviajante.com/" target="_blank">mundoviajante.com</a></p>
+    <p>Esta página é uma extensão da identidade digital do Mundo Viajante em GitHub Pages.</p>
+  </footer>
+</body>
+</html>
