@@ -13,6 +13,7 @@
   <meta property="og:site_name" content="Mundo Viajante" />
   <meta property="og:image" content="https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png" />
   <meta name="twitter:card" content="summary_large_image" />
+  
   <!-- Schema.org -->
   <script type="application/ld+json">
     {
@@ -57,6 +58,8 @@
       ]
     }
   </script>
+
+  <!-- Referencia al archivo CSS -->
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
@@ -64,19 +67,29 @@
     <h1>Blog Mundo Viajante</h1>
     <p>Dicas, roteiros e inspiração para viajar mais e melhor</p>
   </header>
+
+  <!-- Navegación -->
   <nav>
     <a href="#brasil">Brasil</a>
     <a href="#america-sul">América do Sul</a>
     <a href="#america-norte">América do Norte</a>
     <a href="#dicas">Dicas</a>
   </nav>
+
+  <!-- Logo -->
   <div class="logo">
     <img src="https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png" alt="Logo Mundo Viajante">
   </div>
+
+  <!-- Banner -->
   <img class="banner" src="https://www.mundoviajante.com/wp-content/webp-express/webp-images/uploads/2025/05/salar_uyuni-3.jpg.webp" alt="Banner Mundo Viajante">
+
+  <!-- Contenedor principal -->
   <div class="container">
-    <!-- Contenido de la página aquí -->
+    <!-- Aquí va el contenido de la página -->
   </div>
+
+  <!-- Pie de página -->
   <footer>
     &copy; 2025 Blog Mundo Viajante - Todos os direitos reservados.
   </footer>
