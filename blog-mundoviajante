@@ -1,26 +1,84 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Página</title>
-  <style>
-    body {
-      background-color: #f0f0f0;
-      font-family: Arial, sans-serif;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog Mundo Viajante - Dicas, Roteiros e Inspiração para Viajar</title>
+  <meta name="description" content="Qual é o segredo da felicidade? Viajar é o caminho para ser feliz: Roteiros nacionais e internacionais, planejamento de viagem, dicas de hospedagem e passagens aéreas, experiências e programas de intercâmbio, trilhas e aventuras. Conteúdo personalizado para você conhecer novos destinos e realizar seus sonhos." />
+  <meta name="keywords" content="Blog Mundo Viajante, blog de viagens, dicas de viagem, roteiros, passagens aéreas, hospedagem, intercâmbio, aventuras" />
+  <link rel="canonical" href="https://www.mundoviajante.com/" />
+  <meta property="og:title" content="Blog Mundo Viajante - Dicas, Roteiros e Inspiração para Viajar" />
+  <meta property="og:description" content="Descubra como viajar pode transformar sua vida! No Mundo Viajante, você encontra os melhores roteiros nacionais e internacionais, dicas de viagem, planejamento completo, sugestões de hospedagem econômica e passagens aéreas promocionais." />
+  <meta property="og:url" content="https://www.mundoviajante.com/" />
+  <meta property="og:site_name" content="Mundo Viajante" />
+  <meta property="og:image" content="https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <!-- Schema.org -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Blog",
+      "@id": "https://mundoviajantee.blogspot.com/", 
+      "name": "Blog Mundo Viajante",
+      "url": "https://www.mundoviajante.com/",
+      "description": "Blog de viagens com roteiros, dicas, planejamento, experiências e inspiração para viajar pelo Brasil e pelo mundo.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Blog Mundo Viajante",
+        "url": "https://www.mundoviajante.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png"
+        }
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Izabela Andrade",
+        "sameAs": [
+          "https://www.linkedin.com/in/izabela-andrade-17227a2a4/",
+          "https://www.instagram.com/blogmundoviajante/",
+          "https://www.facebook.com/mundoviajantee"
+        ]
+      },
+      "sameAs": [
+        "https://www.facebook.com/mundoviajantee",
+        "https://www.instagram.com/blogmundoviajante/",
+        "https://x.com/MundoViajante_",
+        "https://es.pinterest.com/blogmundoviajante",
+        "https://www.youtube.com/@blogmundoviajante",
+        "https://www.linkedin.com/in/izabela-andrade-17227a2a4/",
+        "https://mundoviajantee.blogspot.com",
+        "https://www.tumblr.com/blog/mundo-viajante",
+        "https://mundoviajanteblog.wordpress.com/",
+        "https://mundoviajante.mystrikingly.com",
+        "https://medium.com/@MundoViajante",
+        "https://mundoviajante.weebly.com",
+        "https://about.me/Mundoviajante"
+      ]
     }
-
-    h1 {
-      color: #007bff;
-    }
-
-    p {
-      color: #333;
-    }
-  </style>
+  </script>
+  <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
-  <h1>Bienvenido a mi sitio web</h1>
-  <p>Este es un ejemplo de cómo usar CSS interno.</p>
+  <header>
+    <h1>Blog Mundo Viajante</h1>
+    <p>Dicas, roteiros e inspiração para viajar mais e melhor</p>
+  </header>
+  <nav>
+    <a href="#brasil">Brasil</a>
+    <a href="#america-sul">América do Sul</a>
+    <a href="#america-norte">América do Norte</a>
+    <a href="#dicas">Dicas</a>
+  </nav>
+  <div class="logo">
+    <img src="https://www.mundoviajante.com/wp-content/uploads/2022/02/cropped-logo-mundo-viajante-1.png" alt="Logo Mundo Viajante">
+  </div>
+  <img class="banner" src="https://www.mundoviajante.com/wp-content/webp-express/webp-images/uploads/2025/05/salar_uyuni-3.jpg.webp" alt="Banner Mundo Viajante">
+  <div class="container">
+    <!-- Contenido de la página aquí -->
+  </div>
+  <footer>
+    &copy; 2025 Blog Mundo Viajante - Todos os direitos reservados.
+  </footer>
 </body>
 </html>
